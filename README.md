@@ -1,6 +1,6 @@
 # Felix Baker
 
-<img src="" alt="devops animated title" title="DevOps animated title" height="907px" width="354px">
+<img src="resources/devops-sticker-v1.02.gif" alt="devops animated title" title="DevOps animated title" height="354px" width="907px">
 
 ## What do I do
 
